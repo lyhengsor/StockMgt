@@ -1,0 +1,2 @@
+# StockMgt
+Stock Management Software
